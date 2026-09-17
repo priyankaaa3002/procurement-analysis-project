@@ -1,0 +1,61 @@
+item_id,item_name,category,sub_category,unit_of_measure,standard_cost
+1,Components - Per,Electronics,Components,Kg,299.86
+2,Consulting - Once,Professional Services,Consulting,Hour,74.78
+3,PCBs - Drug,Electronics,PCBs,Kg,68.81
+4,Freight - Per,Logistics,Freight,Litre,24.5
+5,Cleaning - Discussion,Facilities,Cleaning,Unit,118.38
+6,Components - Account,Electronics,Components,Kg,32.33
+7,Utilities - Avoid,Facilities,Utilities,Litre,15.55
+8,Utilities - Second,Facilities,Utilities,Unit,382.61
+9,Networking - Program,IT Hardware,Networking,Kg,41.06
+10,Servers - Artist,IT Hardware,Servers,Kg,25.16
+11,PCBs - Drop,Electronics,PCBs,Box,1278.25
+12,Spare Parts - Author,MRO,Spare Parts,Box,346.76
+13,Labels - Western,Packaging,Labels,Box,10.92
+14,Tools - Almost,MRO,Tools,Box,19.2
+15,PCBs - Trade,Electronics,PCBs,Hour,815.9
+16,Pallets - Give,Packaging,Pallets,Unit,57.86
+17,Stationery - Avoid,Office Supplies,Stationery,Box,716.54
+18,Furniture - My,Office Supplies,Furniture,Unit,228.79
+19,Freight - Economy,Logistics,Freight,Kg,57.32
+20,Labels - Family,Packaging,Labels,Unit,67.64
+21,Cleaning - Relationship,Facilities,Cleaning,Hour,118.94
+22,Plastics - Mention,Raw Materials,Plastics,Kg,303.46
+23,Events - Difficult,Marketing,Events,Hour,137.29
+24,Warehousing - Notice,Logistics,Warehousing,Hour,37.87
+25,Freight - Cause,Logistics,Freight,Box,80.1
+26,Servers - Several,IT Hardware,Servers,Kg,143.02
+27,Laptops - Worry,IT Hardware,Laptops,Unit,23.69
+28,Print Media - Us,Marketing,Print Media,Unit,160.16
+29,Consulting - Own,Professional Services,Consulting,Hour,273.94
+30,Components - Part,Electronics,Components,Hour,51.12
+31,Warehousing - Material,Logistics,Warehousing,Litre,95.87
+32,Utilities - Eight,Facilities,Utilities,Unit,66.53
+33,Furniture - Still,Office Supplies,Furniture,Hour,526.26
+34,Safety Equipment - Material,MRO,Safety Equipment,Box,111.25
+35,Laptops - Surface,IT Hardware,Laptops,Kg,57.61
+36,Spare Parts - Investment,MRO,Spare Parts,Kg,715.38
+37,Stationery - Customer,Office Supplies,Stationery,Litre,253.81
+38,Stationery - Between,Office Supplies,Stationery,Box,25.45
+39,Laptops - Bill,IT Hardware,Laptops,Litre,428.4
+40,PCBs - Reason,Electronics,PCBs,Kg,369.77
+41,Tools - Lawyer,MRO,Tools,Kg,729.76
+42,Consulting - Health,Professional Services,Consulting,Hour,63.06
+43,Security - Land,Facilities,Security,Unit,38.98
+44,Cleaning - Item,Facilities,Cleaning,Box,230.17
+45,Warehousing - Manage,Logistics,Warehousing,Hour,97.95
+46,Legal - Treat,Professional Services,Legal,Unit,800.13
+47,Freight - Shoulder,Logistics,Freight,Litre,13.65
+48,Pallets - Arm,Packaging,Pallets,Hour,48.33
+49,Tools - Report,MRO,Tools,Hour,193.45
+50,Utilities - Ready,Facilities,Utilities,Hour,93.63
+51,Security - Race,Facilities,Security,Kg,40.23
+52,Consulting - Billion,Professional Services,Consulting,Unit,360.1
+53,Plastics - Ask,Raw Materials,Plastics,Litre,5.76
+54,Warehousing - Interesting,Logistics,Warehousing,Litre,147.92
+55,Freight - Should,Logistics,Freight,Unit,7.57
+56,PCBs - Group,Electronics,PCBs,Unit,13.49
+57,Cleaning - Such,Facilities,Cleaning,Litre,140.05
+58,Safety Equipment - Training,MRO,Safety Equipment,Litre,239.01
+59,Security - Boy,Facilities,Security,Hour,119.04
+60,Security - Energy,Facilities,Security,Box,31.94

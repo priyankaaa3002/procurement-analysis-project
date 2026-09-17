@@ -1,0 +1,81 @@
+category,supplier_name,spend,pct_of_category_spend
+MRO,Johnson and Sons,3590244.37,23.6
+Electronics,"Romero, Gonzalez and Brooks",6161701.28,13.7
+Marketing,Wyatt Inc,1471144.05,19.6
+Electronics,"Le, Maldonado and Herrera",1795856.54,4.0
+Electronics,Cohen Inc,6155513.69,13.7
+Electronics,Clark PLC,2935238.31,6.5
+Packaging,"Romero, Gonzalez and Brooks",385357.41,8.4
+Electronics,"Reid, Ferguson and Sanchez",3458941.17,7.7
+Raw Materials,Maddox-Valencia,840809.09,5.8
+Office Supplies,"Reid, Ferguson and Sanchez",3767598.04,19.0
+Professional Services,Brown PLC,6059400.89,22.9
+Professional Services,"Le, Maldonado and Herrera",1459274.50,5.5
+Raw Materials,Chavez-Flowers,2701899.38,18.8
+IT Hardware,"Ashley, Nielsen and Sellers",2681052.15,28.8
+Packaging,Baker and Sons,207949.04,4.5
+Electronics,"Gill, Romero and Rodriguez",2297676.85,5.1
+Raw Materials,Robinson-Bright,1539454.33,10.7
+Packaging,Maddox-Valencia,260734.44,5.7
+Logistics,Davis-Williams,559027.42,18.3
+Marketing,Baker and Sons,724374.65,9.7
+Office Supplies,Bernard LLC,3963626.07,20.0
+Marketing,"Baker, Richards and Hurst",881830.36,11.8
+Raw Materials,Burton Ltd,989001.58,6.9
+IT Hardware,Robinson-Bright,1258299.57,13.5
+Office Supplies,"Collins, Carney and Santos",2060018.69,10.4
+Office Supplies,Anderson Group,2925445.77,14.8
+Packaging,Anderson Group,231175.15,5.1
+IT Hardware,Trujillo Group,1279093.76,13.7
+Facilities,Wolfe LLC,1210810.17,11.1
+Electronics,"Collins, Carney and Santos",1847063.36,4.1
+Professional Services,Trujillo Group,2981986.19,11.3
+Raw Materials,Robinson-Lawrence,2502597.02,17.4
+Facilities,Baker and Sons,856511.41,7.9
+Logistics,"Lee, Jones and Stanley",251753.48,8.3
+IT Hardware,Rios Group,1328682.53,14.3
+Packaging,"Le, Maldonado and Herrera",166851.65,3.6
+Professional Services,Blair PLC,3248244.01,12.3
+Electronics,Maddox-Valencia,2190280.75,4.9
+Professional Services,Burton Ltd,3015818.39,11.4
+Packaging,Davis-Abbott,943250.57,20.6
+Facilities,Burton Ltd,1249265.15,11.5
+IT Hardware,"Gill, Romero and Rodriguez",718233.64,7.7
+Marketing,"Garcia, Yang and Gardner",947883.68,12.6
+Professional Services,Miller-Carter,5830752.13,22.0
+Facilities,Nelson-Schaefer,1121701.65,10.3
+MRO,Anderson Group,1544021.58,10.2
+Office Supplies,"Hayes, Wright and Brown",6151291.68,31.1
+Packaging,Blair PLC,417708.16,9.1
+Facilities,Baker PLC,2549021.57,23.4
+Marketing,Johnson and Sons,1300424.11,17.3
+Professional Services,"Gill, Romero and Rodriguez",2204962.78,8.3
+Packaging,Smith-Hickman,1053313.91,23.0
+Raw Materials,"Peterson, Carter and Moore",770142.82,5.4
+Logistics,Dennis Inc,304751.87,10.0
+Facilities,"Lee, Jones and Stanley",949159.00,8.7
+Office Supplies,"Garcia, Yang and Gardner",910972.44,4.6
+Packaging,"Collins, Carney and Santos",271335.69,5.9
+Electronics,Nelson-Schaefer,4853366.23,10.8
+MRO,"Rodriguez, Figueroa and Sanchez",5418090.94,35.7
+Marketing,Clark PLC,940187.11,12.5
+Electronics,Wyatt Inc,4518020.17,10.1
+Logistics,Kelly-Santiago,1393287.26,45.7
+Packaging,Bernard LLC,507219.28,11.1
+Marketing,"Lee, Jones and Stanley",1237353.13,16.5
+Facilities,"Baker, Richards and Hurst",569798.32,5.2
+MRO,"Guzman, Hoffman and Baldwin",1439274.86,9.5
+IT Hardware,Dennis Inc,366490.38,3.9
+Professional Services,"Peterson, Carter and Moore",1665722.73,6.3
+MRO,Davis-Williams,3198393.85,21.1
+Raw Materials,Dennis Inc,685116.60,4.8
+Raw Materials,Wolfe LLC,3128942.16,21.7
+IT Hardware,Clark PLC,174969.34,1.9
+Electronics,"Brown, James and Ferrell",5824442.57,13.0
+IT Hardware,"Guzman, Hoffman and Baldwin",727805.76,7.8
+Raw Materials,Rios Group,1235303.46,8.6
+Packaging,"Peterson, Carter and Moore",132150.22,2.9
+Logistics,"Guzman, Hoffman and Baldwin",541864.42,17.8
+Electronics,"Garcia, Yang and Gardner",2876432.64,6.4
+IT Hardware,"Baker, Richards and Hurst",785259.04,8.4
+Facilities,Hickman Ltd,2388406.37,21.9

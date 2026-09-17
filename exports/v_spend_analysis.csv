@@ -1,0 +1,399 @@
+category,region,business_unit,order_year,total_spend
+MRO,North,Operations,2025,289910.15
+Electronics,North,IT,2025,1648129.76
+Facilities,Central,Manufacturing,2025,168926.01
+Raw Materials,East,Manufacturing,2024,466802.17
+Raw Materials,East,Marketing,2025,998292.71
+Packaging,West,IT,2024,109776.21
+Electronics,North,Operations,2025,2352017.78
+IT Hardware,East,IT,2025,156192.66
+Electronics,West,Manufacturing,2024,1084572.59
+Electronics,North,R&D,2025,929708.52
+Packaging,Central,Marketing,2024,40877.24
+Facilities,North,R&D,2025,164004.62
+Electronics,South,Manufacturing,2025,707288.45
+Facilities,West,IT,2024,15869.32
+Raw Materials,South,IT,2024,338950.96
+Facilities,South,R&D,2024,460071.70
+IT Hardware,East,Manufacturing,2024,102609.32
+Facilities,West,Finance,2024,29888.16
+IT Hardware,West,Finance,2025,326998.00
+Electronics,East,IT,2024,450462.87
+Professional Services,North,Manufacturing,2024,637746.48
+Office Supplies,South,Operations,2025,460049.37
+Packaging,East,R&D,2024,113467.50
+Logistics,West,Manufacturing,2024,163630.03
+Raw Materials,South,Manufacturing,2024,140261.46
+Facilities,North,Finance,2024,403056.31
+Professional Services,West,Finance,2025,110554.28
+Packaging,Central,Manufacturing,2025,6066.94
+MRO,North,R&D,2024,471357.65
+Office Supplies,East,Finance,2025,528838.15
+Packaging,West,Operations,2024,173780.66
+Facilities,East,IT,2024,124913.38
+Raw Materials,West,Finance,2025,787004.74
+Electronics,East,Finance,2024,1263329.62
+Office Supplies,West,Operations,2025,1866592.56
+Professional Services,North,Operations,2024,1244716.89
+Logistics,West,Manufacturing,2025,265292.61
+MRO,West,Marketing,2025,1124293.93
+Professional Services,East,Finance,2024,287647.45
+Facilities,North,R&D,2024,368145.79
+Electronics,West,R&D,2025,997366.35
+Professional Services,South,Manufacturing,2025,768269.19
+MRO,North,Finance,2025,414897.24
+Professional Services,East,Manufacturing,2024,919990.16
+IT Hardware,West,Manufacturing,2025,285518.19
+Packaging,West,Manufacturing,2025,79821.05
+Facilities,West,Finance,2025,187261.14
+Professional Services,East,Finance,2025,521883.61
+Raw Materials,East,IT,2025,577006.94
+Marketing,South,IT,2025,13258.80
+Marketing,West,Operations,2025,432343.95
+Raw Materials,East,Finance,2025,319093.77
+Electronics,North,Marketing,2024,1163809.30
+Packaging,East,Manufacturing,2025,29627.66
+Marketing,West,Manufacturing,2025,312595.72
+Professional Services,North,R&D,2024,393353.74
+IT Hardware,West,R&D,2025,672963.11
+Office Supplies,South,R&D,2025,329693.58
+Office Supplies,South,Finance,2025,218151.43
+MRO,North,Manufacturing,2024,261333.88
+Electronics,South,R&D,2025,477497.04
+Packaging,South,Finance,2024,140352.36
+Packaging,Central,R&D,2024,46209.24
+IT Hardware,East,Finance,2024,85222.14
+Electronics,South,R&D,2024,738903.87
+Packaging,East,IT,2024,45088.80
+Packaging,Central,R&D,2025,36530.94
+Facilities,Central,Marketing,2024,68469.51
+Professional Services,East,Operations,2025,729197.88
+Raw Materials,South,Finance,2025,174576.08
+Raw Materials,East,R&D,2025,1013006.49
+IT Hardware,North,Finance,2024,6799.15
+Raw Materials,West,Operations,2025,351876.80
+Electronics,West,Finance,2025,595813.33
+Packaging,West,Manufacturing,2024,209429.21
+Marketing,South,Operations,2024,67746.16
+Facilities,East,Finance,2024,124524.13
+Marketing,Central,R&D,2024,15956.00
+Packaging,South,Finance,2025,11533.74
+IT Hardware,North,Manufacturing,2025,53961.33
+Professional Services,West,Manufacturing,2024,188194.42
+Facilities,West,IT,2025,226912.67
+IT Hardware,South,IT,2024,33534.95
+Professional Services,South,IT,2025,951945.29
+Professional Services,South,Marketing,2024,763184.80
+IT Hardware,North,R&D,2024,13852.17
+Marketing,North,Finance,2024,99550.30
+Logistics,West,Marketing,2024,116511.48
+Facilities,South,Operations,2024,339618.27
+MRO,West,Finance,2025,416393.95
+Professional Services,North,Manufacturing,2025,1105989.67
+Electronics,East,R&D,2024,733334.28
+Office Supplies,West,IT,2024,1352783.60
+Office Supplies,East,Operations,2025,57763.00
+IT Hardware,West,IT,2024,244992.65
+MRO,North,Operations,2024,1477963.60
+IT Hardware,East,R&D,2025,24117.65
+Professional Services,East,Manufacturing,2025,439787.52
+IT Hardware,East,Marketing,2024,42212.53
+Logistics,West,R&D,2025,189558.76
+Electronics,North,Finance,2024,998186.73
+Raw Materials,South,Manufacturing,2025,296559.04
+Professional Services,East,Marketing,2025,353336.64
+IT Hardware,South,Marketing,2025,90131.33
+Facilities,North,Operations,2025,160657.39
+Facilities,East,Manufacturing,2024,114124.28
+Raw Materials,West,R&D,2024,283988.96
+IT Hardware,South,Manufacturing,2025,109255.90
+Office Supplies,East,R&D,2025,378036.87
+Raw Materials,West,IT,2024,504255.35
+MRO,West,IT,2025,1200466.53
+Packaging,South,Operations,2024,186111.82
+Professional Services,West,Marketing,2024,14576.04
+Raw Materials,West,Operations,2024,468974.45
+Professional Services,North,R&D,2025,1172216.23
+Raw Materials,West,Manufacturing,2024,182838.93
+Marketing,West,Finance,2025,294366.58
+Packaging,South,R&D,2025,158266.69
+Marketing,North,Marketing,2024,217620.38
+Electronics,North,Manufacturing,2025,1248272.10
+Professional Services,West,Finance,2024,283771.79
+IT Hardware,North,IT,2025,30227.43
+Professional Services,East,R&D,2025,640055.87
+Raw Materials,South,Finance,2024,311030.47
+Electronics,South,Operations,2024,134063.41
+Packaging,South,Marketing,2024,123280.79
+IT Hardware,West,Finance,2024,268265.29
+Facilities,East,IT,2025,60523.83
+Office Supplies,South,Manufacturing,2025,785752.82
+Packaging,Central,Finance,2025,4221.44
+Raw Materials,East,Operations,2024,510466.10
+Packaging,West,Finance,2024,106689.79
+Facilities,West,Operations,2024,79936.94
+Logistics,South,Marketing,2025,25361.91
+Office Supplies,East,Manufacturing,2025,114785.40
+Marketing,Central,R&D,2025,86512.09
+Marketing,North,IT,2024,84322.16
+Facilities,South,IT,2024,440715.43
+Professional Services,South,Finance,2024,1056751.97
+Raw Materials,West,Marketing,2024,359284.47
+Marketing,West,Marketing,2024,136250.68
+Office Supplies,South,R&D,2024,356315.17
+Raw Materials,South,Marketing,2024,175884.34
+Logistics,West,Finance,2025,158622.34
+Marketing,North,R&D,2024,402641.71
+Facilities,East,Manufacturing,2025,240909.02
+Logistics,South,R&D,2024,14544.72
+Marketing,Central,Marketing,2025,16295.79
+Professional Services,North,Finance,2024,172320.39
+Professional Services,East,R&D,2024,356038.38
+Electronics,West,IT,2024,547284.48
+Logistics,South,IT,2024,43861.44
+IT Hardware,South,IT,2025,143131.87
+Marketing,North,Operations,2025,72940.14
+Marketing,South,Manufacturing,2024,71162.88
+Facilities,North,Manufacturing,2024,326406.55
+Marketing,Central,Operations,2024,102618.86
+Office Supplies,West,Finance,2024,470699.03
+MRO,North,Marketing,2024,493442.46
+Electronics,West,Marketing,2025,626793.78
+Electronics,South,Operations,2025,506782.64
+Office Supplies,West,Manufacturing,2025,764660.76
+Raw Materials,West,Finance,2024,202615.24
+Facilities,South,Manufacturing,2025,209697.47
+Packaging,Central,Manufacturing,2024,14330.68
+Facilities,Central,R&D,2025,120153.75
+Marketing,West,Operations,2024,299910.80
+IT Hardware,West,Manufacturing,2024,401874.09
+Electronics,South,Marketing,2024,691084.71
+IT Hardware,West,Operations,2025,364012.30
+Professional Services,North,Marketing,2025,552826.27
+Professional Services,South,R&D,2024,963891.26
+Electronics,North,R&D,2024,1407321.27
+Office Supplies,East,Manufacturing,2024,5410.20
+Raw Materials,East,Marketing,2024,810116.59
+Raw Materials,East,IT,2024,873263.97
+Professional Services,West,Marketing,2025,405409.45
+Facilities,Central,Finance,2025,89037.14
+Professional Services,South,Operations,2025,459970.67
+Facilities,Central,Finance,2024,27897.32
+IT Hardware,North,IT,2024,1311.52
+Facilities,Central,IT,2024,14262.12
+Electronics,East,Finance,2025,698913.89
+Professional Services,South,IT,2024,731405.55
+MRO,West,Finance,2024,450455.35
+Professional Services,South,Marketing,2025,724745.79
+Professional Services,West,Manufacturing,2025,14876.16
+Facilities,East,R&D,2025,52101.82
+Electronics,West,Manufacturing,2025,541205.91
+Office Supplies,South,IT,2024,514775.95
+Marketing,North,R&D,2025,158223.83
+Office Supplies,West,R&D,2024,1442630.00
+MRO,West,R&D,2025,1073134.35
+IT Hardware,West,Marketing,2025,401936.24
+Raw Materials,South,Marketing,2025,373674.19
+IT Hardware,South,Manufacturing,2024,92990.28
+MRO,North,IT,2025,144187.86
+Packaging,South,Marketing,2025,135404.36
+Professional Services,West,IT,2025,101887.39
+Packaging,South,IT,2024,185634.30
+IT Hardware,South,R&D,2025,196111.41
+IT Hardware,North,R&D,2025,112066.82
+Facilities,North,Manufacturing,2025,106991.63
+Electronics,West,Operations,2025,655205.35
+Packaging,South,IT,2025,87272.76
+Marketing,North,Finance,2025,211007.73
+Logistics,South,R&D,2025,21607.26
+Raw Materials,South,R&D,2024,37140.81
+Facilities,West,Marketing,2025,24807.34
+Logistics,West,IT,2024,267435.53
+IT Hardware,South,Operations,2025,27980.79
+Packaging,Central,IT,2025,4454.05
+IT Hardware,East,Marketing,2025,207019.19
+Office Supplies,East,Marketing,2024,219058.65
+Facilities,Central,R&D,2024,158758.60
+Raw Materials,East,Operations,2025,646312.94
+Facilities,North,IT,2025,119274.21
+Facilities,South,Operations,2025,351641.99
+Facilities,South,Finance,2024,252225.86
+Electronics,South,IT,2025,557633.28
+Raw Materials,West,R&D,2025,154768.65
+IT Hardware,North,Manufacturing,2024,69409.84
+Marketing,Central,Manufacturing,2025,84811.85
+Facilities,South,Marketing,2024,360842.80
+Office Supplies,West,Marketing,2024,985894.54
+Facilities,North,IT,2024,408260.30
+Raw Materials,South,Operations,2024,317550.18
+Office Supplies,South,Marketing,2024,454676.25
+Packaging,Central,Finance,2024,35588.90
+Facilities,Central,Operations,2025,72621.16
+MRO,North,Manufacturing,2025,252506.42
+MRO,West,Marketing,2024,839929.00
+Facilities,West,R&D,2024,293925.00
+Facilities,South,Marketing,2025,411621.70
+Logistics,West,Marketing,2025,236221.28
+MRO,West,R&D,2024,613256.24
+Raw Materials,South,R&D,2025,2810.68
+Raw Materials,East,Finance,2024,964439.73
+Electronics,South,Manufacturing,2024,798814.05
+Electronics,East,R&D,2025,1065427.92
+Packaging,East,Marketing,2024,143162.49
+IT Hardware,South,Finance,2024,2320.61
+Packaging,South,Operations,2025,88615.44
+Packaging,South,Manufacturing,2024,179911.02
+Packaging,East,IT,2025,41498.18
+IT Hardware,East,Operations,2025,678302.12
+Packaging,South,Manufacturing,2025,100686.67
+Professional Services,South,Operations,2024,914666.43
+Electronics,North,IT,2024,792930.74
+Packaging,West,Marketing,2025,173764.60
+Electronics,West,Operations,2024,371203.69
+Raw Materials,West,Marketing,2025,110375.01
+Electronics,East,Marketing,2025,1028280.00
+Marketing,West,IT,2025,471023.98
+Marketing,South,Finance,2024,211854.81
+MRO,West,Operations,2025,500825.22
+Professional Services,East,Operations,2024,563485.19
+IT Hardware,East,Finance,2025,63021.78
+Office Supplies,East,Operations,2024,85499.01
+Electronics,East,Operations,2024,652787.59
+Facilities,East,Operations,2024,88153.70
+Professional Services,North,IT,2025,402379.91
+Electronics,West,R&D,2024,397039.64
+Raw Materials,East,Manufacturing,2025,253672.18
+Office Supplies,East,Finance,2024,200486.67
+Facilities,Central,IT,2025,57486.83
+Facilities,East,R&D,2024,139817.61
+Professional Services,West,IT,2024,161187.37
+IT Hardware,South,R&D,2024,120921.87
+Logistics,South,Manufacturing,2025,1157.31
+Professional Services,South,R&D,2025,1379885.99
+Office Supplies,South,Operations,2024,198303.94
+Electronics,East,Manufacturing,2025,597796.70
+Marketing,South,Operations,2025,69484.64
+Facilities,North,Finance,2025,447404.68
+MRO,North,Finance,2024,373544.13
+Electronics,South,Marketing,2025,389475.24
+Packaging,West,R&D,2024,157561.64
+Professional Services,North,Operations,2025,239892.16
+Logistics,West,IT,2025,314938.14
+Electronics,South,Finance,2025,429165.59
+Packaging,East,R&D,2025,102885.04
+Electronics,East,Marketing,2024,1428789.98
+Logistics,South,Operations,2024,35485.15
+IT Hardware,South,Operations,2024,43132.18
+Packaging,East,Operations,2024,66219.01
+Marketing,South,Manufacturing,2025,39000.72
+Professional Services,North,IT,2024,72514.33
+Electronics,South,IT,2024,179594.25
+Facilities,South,Finance,2025,263015.74
+Packaging,Central,Marketing,2025,19669.61
+Packaging,East,Finance,2025,114331.32
+Marketing,Central,Finance,2025,96549.73
+MRO,North,R&D,2025,235325.30
+IT Hardware,East,Operations,2024,347673.87
+Professional Services,West,R&D,2025,124939.32
+MRO,North,Marketing,2025,735598.37
+Professional Services,North,Marketing,2024,1207045.62
+Electronics,West,Finance,2024,1465296.31
+Raw Materials,West,IT,2025,101596.35
+Office Supplies,South,IT,2025,410470.89
+Professional Services,West,Operations,2024,8220.36
+Raw Materials,South,IT,2025,161194.01
+Electronics,West,IT,2025,149477.60
+IT Hardware,West,Operations,2024,396492.71
+Logistics,South,IT,2025,85939.21
+Facilities,North,Operations,2024,634442.05
+MRO,West,IT,2024,1427765.45
+MRO,West,Operations,2024,761921.84
+Logistics,West,Operations,2025,341102.47
+Electronics,North,Operations,2024,2419957.07
+Electronics,East,IT,2025,363000.03
+Electronics,West,Marketing,2024,699971.32
+IT Hardware,South,Finance,2025,270383.35
+Professional Services,South,Manufacturing,2024,1458573.39
+Facilities,South,R&D,2025,303977.50
+Packaging,East,Marketing,2025,63948.35
+Electronics,North,Marketing,2025,3214071.73
+Packaging,West,IT,2025,161000.21
+IT Hardware,East,IT,2024,401870.69
+Office Supplies,South,Finance,2024,640322.43
+Marketing,North,IT,2025,295233.47
+Marketing,North,Manufacturing,2024,178853.68
+Electronics,South,Finance,2024,551398.75
+Marketing,North,Marketing,2025,202274.52
+IT Hardware,East,Manufacturing,2025,79947.88
+Facilities,East,Finance,2025,67585.93
+Facilities,South,Manufacturing,2024,488995.01
+Marketing,North,Manufacturing,2025,272273.94
+Professional Services,West,R&D,2024,45657.92
+Office Supplies,West,Operations,2024,1059071.92
+Office Supplies,West,Marketing,2025,810315.13
+Electronics,East,Operations,2025,458707.40
+Packaging,South,R&D,2024,63688.25
+Electronics,East,Manufacturing,2024,1452027.52
+Office Supplies,West,Finance,2025,608737.46
+Marketing,South,Marketing,2025,112638.87
+Logistics,West,Operations,2024,243434.19
+Raw Materials,South,Operations,2025,114628.78
+MRO,West,Manufacturing,2024,814897.29
+Logistics,West,Finance,2024,208002.38
+Office Supplies,East,R&D,2024,149156.93
+Marketing,West,Manufacturing,2024,218387.45
+Packaging,West,Finance,2025,232367.09
+Electronics,North,Finance,2025,2075684.20
+IT Hardware,North,Finance,2025,134319.10
+Professional Services,East,IT,2025,305302.33
+Facilities,West,R&D,2025,24828.29
+Professional Services,North,Finance,2025,834713.22
+Office Supplies,East,IT,2024,115559.36
+Packaging,West,Operations,2025,174718.13
+Electronics,North,Manufacturing,2024,2178654.93
+Office Supplies,West,Manufacturing,2024,967158.21
+Logistics,West,R&D,2024,241183.37
+Marketing,West,Marketing,2025,44952.24
+IT Hardware,West,IT,2025,352960.77
+IT Hardware,North,Marketing,2025,191878.30
+Office Supplies,South,Manufacturing,2024,1058656.60
+Office Supplies,East,Marketing,2025,205424.45
+Facilities,North,Marketing,2024,215307.60
+Packaging,East,Manufacturing,2024,13892.50
+Professional Services,East,Marketing,2024,316037.43
+IT Hardware,North,Operations,2024,27563.53
+Raw Materials,East,R&D,2024,579329.01
+Marketing,West,R&D,2024,175588.97
+Facilities,East,Marketing,2025,115879.29
+Marketing,Central,Marketing,2024,321630.33
+IT Hardware,East,R&D,2024,349203.50
+Marketing,West,R&D,2025,605366.59
+IT Hardware,North,Operations,2025,187063.76
+Marketing,South,Marketing,2024,151154.32
+Packaging,West,Marketing,2024,178769.65
+Packaging,East,Operations,2025,114798.10
+Facilities,Central,Marketing,2025,78898.97
+Professional Services,South,Finance,2025,567651.68
+Office Supplies,West,IT,2025,501017.38
+Facilities,North,Marketing,2025,316772.09
+IT Hardware,West,Marketing,2024,222306.00
+Raw Materials,West,Manufacturing,2025,429623.89
+Facilities,South,IT,2025,325046.37
+Marketing,West,IT,2024,295006.10
+Professional Services,East,IT,2024,797467.74
+Marketing,West,Finance,2024,199867.86
+Packaging,West,R&D,2025,200881.75
+Marketing,North,Operations,2024,216389.30
+MRO,West,Manufacturing,2025,548595.51
+Facilities,West,Manufacturing,2025,65730.14
+IT Hardware,North,Marketing,2024,64750.03
+IT Hardware,West,R&D,2024,799221.09
+Office Supplies,West,R&D,2025,738081.73
+Logistics,South,Manufacturing,2024,54184.59
+Logistics,South,Finance,2024,22610.28
+Facilities,East,Marketing,2024,82277.18
+Office Supplies,South,Marketing,2025,724123.25
+MRO,North,IT,2024,268023.88
+IT Hardware,South,Marketing,2024,21854.88
+Packaging,East,Finance,2024,100859.34
+Marketing,South,R&D,2024,145529.16

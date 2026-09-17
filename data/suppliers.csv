@@ -1,0 +1,41 @@
+supplier_id,supplier_name,region,country,supplier_type,risk_rating,onboarded_date
+1,"Rodriguez, Figueroa and Sanchez",North,India,Service Provider,Medium,2021-11-23
+2,"Garcia, Yang and Gardner",West,India,Service Provider,Medium,2024-04-18
+3,Johnson and Sons,West,India,Manufacturer,Low,2022-09-08
+4,"Guzman, Hoffman and Baldwin",West,Reunion,Distributor,Medium,2025-05-06
+5,Robinson-Lawrence,East,India,Distributor,Low,2020-10-06
+6,Wolfe LLC,East,Fiji,Distributor,Medium,2022-01-12
+7,Bernard LLC,West,Bosnia and Herzegovina,Service Provider,Medium,2021-07-01
+8,Davis-Abbott,South,India,Manufacturer,Low,2022-12-16
+9,Blair PLC,East,India,Distributor,High,2021-10-08
+10,Miller-Carter,North,India,Manufacturer,Low,2023-10-14
+11,"Lee, Jones and Stanley",West,India,Manufacturer,Low,2023-03-04
+12,Wyatt Inc,North,India,Manufacturer,Medium,2023-12-11
+13,Chavez-Flowers,West,India,Distributor,Medium,2022-02-03
+14,Kelly-Santiago,West,India,Manufacturer,Medium,2021-04-25
+15,"Reid, Ferguson and Sanchez",West,India,Manufacturer,Medium,2024-08-22
+16,Nelson-Schaefer,North,India,Distributor,Medium,2025-06-12
+17,Cohen Inc,East,India,Manufacturer,Low,2022-08-28
+18,Trujillo Group,East,India,Manufacturer,Medium,2022-12-26
+19,Clark PLC,North,India,Distributor,Medium,2023-05-21
+20,Rios Group,West,India,Manufacturer,Low,2024-08-11
+21,Baker and Sons,Central,India,Service Provider,Low,2025-06-26
+22,"Baker, Richards and Hurst",South,India,Manufacturer,Low,2024-02-08
+23,Robinson-Bright,East,India,Distributor,Medium,2025-01-16
+24,Davis-Williams,West,India,Distributor,Low,2021-08-22
+25,Burton Ltd,South,India,Distributor,Low,2024-04-19
+26,"Brown, James and Ferrell",North,India,Distributor,Low,2025-03-17
+27,Maddox-Valencia,East,India,Manufacturer,Low,2020-10-21
+28,"Le, Maldonado and Herrera",West,India,Manufacturer,Low,2022-12-23
+29,"Peterson, Carter and Moore",South,Afghanistan,Service Provider,Medium,2022-12-13
+30,"Gill, Romero and Rodriguez",North,India,Service Provider,Medium,2023-04-01
+31,"Romero, Gonzalez and Brooks",South,India,Manufacturer,Low,2022-01-30
+32,"Ashley, Nielsen and Sellers",West,Netherlands Antilles,Manufacturer,Low,2023-06-20
+33,Smith-Hickman,West,India,Manufacturer,High,2023-04-29
+34,Brown PLC,South,India,Distributor,Low,2021-05-18
+35,Dennis Inc,South,India,Distributor,Low,2025-03-29
+36,Anderson Group,West,India,Manufacturer,Low,2025-05-21
+37,Baker PLC,North,India,Manufacturer,Medium,2024-04-22
+38,Hickman Ltd,South,India,Service Provider,Medium,2022-06-02
+39,"Collins, Carney and Santos",East,India,Manufacturer,High,2024-06-08
+40,"Hayes, Wright and Brown",South,India,Distributor,Low,2020-11-20

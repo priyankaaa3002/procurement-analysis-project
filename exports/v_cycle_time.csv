@@ -1,0 +1,7 @@
+business_unit,avg_req_to_order_days,avg_order_to_delivery_days,avg_delivery_to_invoice_days,avg_invoice_to_payment_days
+Marketing,4.6,32.0,7.2,40.0
+Operations,4.5,30.8,6.7,38.3
+Finance,4.5,31.2,6.9,40.2
+R&D,4.4,32.5,6.8,39.7
+Manufacturing,4.4,31.7,7.7,39.9
+IT,4.6,31.9,7.3,39.2
