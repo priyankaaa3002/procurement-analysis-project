@@ -28,6 +28,23 @@ Power BI (powerbi/procurement_dashboard.pbix)
 
 Spend analysis, ABC/Pareto, supplier OTIF performance, purchase price variance (PPV), maverick spend/contract compliance, savings tracking, Kraljic supplier segmentation, supplier concentration/risk, DPO/payment terms, cycle time, should-cost modeling, demand forecasting input, and anomaly detection (duplicate invoices, split POs).
 
+## Dashboard
+
+**Page 1 — Spend & Compliance** (spend by category/BU, maverick spend, Kraljic segmentation, supplier OTIF)
+![Page 1](screenshots/page1-spend-compliance.png)
+
+**Page 2 — Demand & Anomalies** (monthly demand by category, split-PO candidates, duplicate invoices, ABC/Pareto)
+![Page 2](screenshots/page2-demand-anomalies.png)
+
+**Page 3 — Pricing & Risk** (PPV, DPO, savings tracking, cycle time)
+![Page 3](screenshots/page3-pricing-risk.png)
+
+**Page 4 — Supplier Concentration** (single-source risk by category)
+![Page 4](screenshots/page4-supplier-concentration.png)
+
+**Page 5 — Should-Cost Benchmark** (actual price vs. should-cost, by item)
+![Page 5](screenshots/page5-should-cost.png)
+
 ## Running it
 
 ```bash
