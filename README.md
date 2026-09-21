@@ -45,6 +45,25 @@ Spend analysis, ABC/Pareto, supplier OTIF performance, purchase price variance (
 **Page 5 — Should-Cost Benchmark** (actual price vs. should-cost, by item)
 ![Page 5](screenshots/page5-should-cost.png)
 
+## Key findings
+
+- **Contract bypass is systemic:** 34.8% of orders (39.7% of value, ₹6.20 Cr) have no linked contract, spread evenly across all six business units rather than concentrated in one.
+- **Contracted spend still leaks value:** ₹4.32 Cr in cumulative overpayment above negotiated benchmarks, on orders that *do* have a contract — pricing isn't enforced at the point of purchase.
+- **On-time delivery, not quantity or quality, is the weak link:** composite OTIF averages 10.3%, but in-full delivery is healthy (90.0%) — the failure is concentrated in on-time delivery (20.1%).
+- **₹17.06 Lakh flagged for AP audit:** 44 duplicate invoice pairs (₹12.82 L) and 15 same-day/same-supplier order clusters just under a common approval threshold (₹4.24 L).
+- **Supplier concentration is currently healthy:** no category has a single supplier holding more than 50% of its spend.
+
+## Recommendations
+
+1. **Enforce contract routing at the point of purchase.** Maverick spend is spread evenly across business units, so this needs a system-level fix (block/flag PO creation with no matching active contract), not a department-specific one.
+2. **Add automated price checks against the negotiated benchmark.** A contract existing isn't enough — flag or block unit prices above the negotiated rate at PO entry, not in a quarterly report after the fact.
+3. **Renegotiate delivery-date commitments before switching suppliers.** In-full and quality rates are both stronger than on-time rate — align requested delivery dates with what suppliers can realistically hit, starting with the worst OTIF performers.
+4. **Run a targeted should-cost review on the Facilities category**, where security/cleaning items show the largest overrun percentages of any category.
+5. **Route flagged duplicate invoices and split-PO clusters to accounts-payable audit** — these are leads for human review, not proof of fraud.
+6. **No immediate action needed on supplier concentration** — continue monitoring as spend grows.
+
+A full write-up with the Python code, SQL queries, and reasoning behind each finding is in `Procurement-Analytics-Report.pdf` (generated from this project, not included in this repo).
+
 ## Running it
 
 ```bash
